@@ -11,7 +11,7 @@ As build tool gradle is used this time to get to know this tool better.
 
 ## Repository Contents
 
-Sources for all project tasks (5 stages) with tests, static contents HTML, JS, CSS and configurations.
+Sources for all project tasks (5 stages).
 
 ## Progress
 
