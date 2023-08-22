@@ -1,7 +1,6 @@
 # IDEA EDU Course ...
 
 Implemented in the Java <b>SQL for Backend Developers</b> Track of hyperskill.org's JetBrain Academy.<br>
-https://hyperskill.org/projects/130
 
 Project goal is to exercise SQL, as I tend to forget its syntax quicker than any other programming language.
 Also, translating ER-diagrams, creating triggers, views is not my usual daily work but helps me in the job still.
