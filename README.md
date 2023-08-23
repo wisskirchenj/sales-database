@@ -22,3 +22,5 @@ Sources for all project tasks (5 stages).
 22.08.23 Stage 2 completed. Inserting some basic data into the tables using `AFTER INSERT` trigger to keep an
 inventory table in sync with sales. Add a clean script to be able to repeat all exercises.
 
+23.08.23 Stage 3 completed. Create a composite index (which unfortunately does not help to solve the problem here).
+Then create a view to group total sales on model. Query this view.

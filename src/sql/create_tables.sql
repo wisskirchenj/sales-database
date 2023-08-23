@@ -1,4 +1,4 @@
-use sqles;
+use sales;
 CREATE TABLE IF NOT EXISTS employees (
                                      employee_id INT PRIMARY KEY AUTO_INCREMENT,
                                      first_name VARCHAR(45) NOT NULL,
