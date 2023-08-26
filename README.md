@@ -24,3 +24,6 @@ inventory table in sync with sales. Add a clean script to be able to repeat all 
 
 23.08.23 Stage 3 completed. Create a composite index (which unfortunately does not help to solve the problem here).
 Then create a view to group total sales on model. Query this view.
+
+23.08.23 Stage 4 completed. Create an employee report only on Sales Assistants, that calculates there monthly sales 
+bonus based on their share in the monthly company revenue.

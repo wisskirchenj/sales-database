@@ -12,4 +12,3 @@ GROUP BY model
 ORDER BY total_sold DESC;
 
 SELECT * FROM sales_summary;
-
