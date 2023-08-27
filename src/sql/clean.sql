@@ -6,3 +6,5 @@ DROP TABLE manufacturers;
 DROP TABLE customers;
 DROP TABLE employees;
 DROP VIEW sales_summary;
+DROP VIEW employee_report;
+DROP VIEW model_report;
