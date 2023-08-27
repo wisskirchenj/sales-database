@@ -5,8 +5,6 @@ Implemented in the Java <b>SQL for Backend Developers</b> Track of hyperskill.or
 Project goal is to exercise SQL, as I tend to forget its syntax quicker than any other programming language.
 Also, translating ER-diagrams, creating triggers, views is not my usual daily work but helps me in the job still.
 
-As build tool gradle is used this time to get to know this tool better.
-
 ## Project status
 
 Project was completed on 27.08.23.
