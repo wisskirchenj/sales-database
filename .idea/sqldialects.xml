@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/src/sql/clean.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/sql/create_tables.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/sql/insert_trigger.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/sql/view.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/clean.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/create_tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/employee_report.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/insert_trigger.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/model_report.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/view.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
